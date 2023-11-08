@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Hi! My name Tsaqif Mushoddaq 😄
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Belgrade, Serbia.
+Hi👋🏻, I’m Tsaqif Mushoddaq. A passionate Front-End React Developer based in Yogyakarta, Indonesia
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tsaqifmu&label=Profile%20views&color=0e75b6&style=flat" alt="tsaqifmu" /> </p>
